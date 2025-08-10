@@ -17,7 +17,7 @@ https://velog.io/@springhana/RN-React-Native-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B
 
 (네이버 maps API)
 네이버 maps API(DynamicMap) 
--Client ID : 3hseigxemn
+-Client ID : 3hseigxemns
 -Clinet Secret : nYoIoCOvuUE5cS9dI5VsV4DIpxULN5xlCsuN2xnd
 
 네이버 maps API(StaticMap) <-현재 이걸로 사용함
